@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.android.common</groupId>
+  <groupId>com.android.yswheye</groupId>
   <artifactId>common-lib</artifactId>
   <versioning>
-    <release>0.0.3</release>
+    <release>0.0.4</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
       <version>0.0.3</version>
+      <version>0.0.4</version>
     </versions>
-    <lastUpdated>20180118024641</lastUpdated>
+    <lastUpdated>20181106115936</lastUpdated>
   </versioning>
 </metadata>

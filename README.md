@@ -13,7 +13,7 @@
 
 2.在用到的lib下的build.gradle添加依赖  
 
-	implementation 'com.android.common:common-lib:0.0.1@aar'
+	implementation 'com.android.yswheye:common-lib:0.0.1@aar'
 	
 3.common-lib中添加的依赖要在第二步添加依赖的地方重新添加，因为aar中的代码不包括引用的依赖库。 
 	
